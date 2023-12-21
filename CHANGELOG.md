@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.9.1](https://github.com/open-feature/go-sdk/compare/v1.9.0...v1.9.1) (2023-12-21)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** update module github.com/go-logr/logr to v1.4.0 ([#241](https://github.com/open-feature/go-sdk/issues/241)) ([72e4317](https://github.com/open-feature/go-sdk/commit/72e4317adc1987a932d0493463c673b09b0c4fe0))
+* **deps:** update module github.com/go-logr/logr to v1.4.1 ([#243](https://github.com/open-feature/go-sdk/issues/243)) ([95f592a](https://github.com/open-feature/go-sdk/commit/95f592a50ff669b32a071625029b0566c750c534))
+
 ## [1.9.0](https://github.com/open-feature/go-sdk/compare/v1.8.0...v1.9.0) (2023-11-21)
 
 
